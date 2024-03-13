@@ -5,6 +5,8 @@
     "main": "index.scss",
     "repository": {
         "type": "git",
-        "url": "git@github.com/sxei/basestyle.git"
-    }
+        "url": "github.com/sxei/basestyle"
+    },
+    "author": "sxei",
+    "license": "MIT"
 }
