@@ -1,4 +1,4 @@
-# basestyle
+# com-class
 
 一些基础公共样式，例如颜色、字体大小、margin、padding等封装，详见[index.css](./index.css) 。
 
