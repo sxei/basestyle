@@ -1,11 +1,11 @@
 {
-    "name": "basestyle",
-    "version": "1.0.0",
+    "name": "com-class",
+    "version": "1.0.1",
     "description": "some common base style",
-    "main": "index.scss",
+    "main": "index.css",
     "repository": {
         "type": "git",
-        "url": "github.com/sxei/basestyle"
+        "url": "github.com/sxei/com-class"
     },
     "author": "sxei",
     "license": "MIT"
