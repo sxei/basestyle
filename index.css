@@ -1,0 +1,516 @@
+body {
+    -webkit-font-smoothing: antialiased;
+}
+
+.pull-left {
+    float: left;
+}
+
+.pull-right {
+    float: right;
+}
+
+.text-muted {
+    color: #999 !important;
+}
+
+.text-primary {
+    color: #39f !important;
+}
+
+.text-success {
+    color: #40a76b !important;
+}
+
+.text-info {
+    color: #50bfff !important;
+}
+
+.text-warning {
+    color: #f90 !important;
+}
+
+.text-danger {
+    color: #ff4949 !important;
+}
+
+.text-black {
+    color: #1f2d3d !important;
+}
+
+.text-white {
+    color: #fff !important;
+}
+
+.text-gray {
+    color: #aaa !important;
+}
+
+.bg-primary {
+    background-color: #39f;
+}
+
+.bg-success {
+    background-color: #40a76b;
+}
+
+.bg-info {
+    background-color: #50bfff;
+}
+
+.bg-warning {
+    background-color: #f90;
+}
+
+.bg-danger {
+    background-color: #ff4949;
+}
+
+.bg-white {
+    background-color: #fff;
+}
+
+.bg-black {
+    background-color: #1f2d3d;
+}
+
+.mt-xs {
+    margin-top: 4px;
+}
+
+.mt-sm {
+    margin-top: 8px;
+}
+
+.mt-md {
+    margin-top: 16px;
+}
+
+.mt-lg {
+    margin-top: 24px;
+}
+
+.mt-xlg {
+    margin-top: 32px;
+}
+
+.mb-xs {
+    margin-bottom: 4px;
+}
+
+.mb-sm {
+    margin-bottom: 8px;
+}
+
+.mb-md {
+    margin-bottom: 16px;
+}
+
+.mb-lg {
+    margin-bottom: 24px;
+}
+
+.mb-xlg {
+    margin-bottom: 32px;
+}
+
+.ml-xs {
+    margin-left: 4px;
+}
+
+.ml-sm {
+    margin-left: 8px;
+}
+
+.ml-md {
+    margin-left: 16px;
+}
+
+.ml-lg {
+    margin-left: 24px;
+}
+
+.ml-xlg {
+    margin-left: 32px;
+}
+
+.mr-xs {
+    margin-right: 4px;
+}
+
+.mr-sm {
+    margin-right: 8px;
+}
+
+.mr-md {
+    margin-right: 16px;
+}
+
+.mr-lg {
+    margin-right: 24px;
+}
+
+.mr-xlg {
+    margin-right: 32px;
+}
+
+.m-xs {
+    margin: 4px;
+}
+
+.m-sm {
+    margin: 8px;
+}
+
+.m-md {
+    margin: 16px;
+}
+
+.m-lg {
+    margin: 24px;
+}
+
+.m-xlg {
+    margin: 32px;
+}
+
+.mtb-xs {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.mtb-sm {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.mtb-smd {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.mtb-md {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.mtb-lg {
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.mtb-xlg {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.mlr-xs {
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.mlr-sm {
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.mlr-smd {
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.mlr-md {
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.mlr-lg {
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+.mlr-xlg {
+    margin-left: 32px;
+    margin-right: 32px;
+}
+
+.pt-xs {
+    padding-top: 4px;
+}
+
+.pt-sm {
+    padding-top: 8px;
+}
+
+.pt-md {
+    padding-top: 16px;
+}
+
+.pt-lg {
+    padding-top: 24px;
+}
+
+.pt-xlg {
+    padding-top: 32px;
+}
+
+.pb-xs {
+    padding-bottom: 4px;
+}
+
+.pb-sm {
+    padding-bottom: 8px;
+}
+
+.pb-md {
+    padding-bottom: 16px;
+}
+
+.pb-lg {
+    padding-bottom: 24px;
+}
+
+.pb-xlg {
+    padding-bottom: 32px;
+}
+
+.pl-xs {
+    padding-left: 4px;
+}
+
+.pl-sm {
+    padding-left: 8px;
+}
+
+.pl-md {
+    padding-left: 16px;
+}
+
+.pl-lg {
+    padding-left: 24px;
+}
+
+.pl-xlg {
+    padding-left: 32px;
+}
+
+.pr-xs {
+    padding-right: 4px;
+}
+
+.pr-sm {
+    padding-right: 8px;
+}
+
+.pr-md {
+    padding-right: 16px;
+}
+
+.pr-lg {
+    padding-right: 24px;
+}
+
+.pr-xlg {
+    padding-right: 32px;
+}
+
+.p-xs {
+    padding: 4px;
+}
+
+.p-sm {
+    padding: 8px;
+}
+
+.p-md {
+    padding: 16px;
+}
+
+.p-lg {
+    padding: 24px;
+}
+
+.p-xlg {
+    padding: 32px;
+}
+
+.ptb-xs {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.ptb-sm {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.ptb-smd {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.ptb-md {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.ptb-lg {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.ptb-xlg {
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+.plr-xs {
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.plr-sm {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.plr-smd {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.plr-md {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.plr-lg {
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.plr-xlg {
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.special-scroll {
+    overflow-y: auto;
+}
+
+.special-scroll::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+.special-scroll::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background-color: #d8dce5;
+}
+
+.special-scroll::-webkit-scrollbar-thumb {
+    background-color: #adadad;
+    border-radius: 5px;
+}
+
+.special-scroll::-webkit-scrollbar-thumb:hover {
+    background-color: #666;
+}
+
+.special-scroll::-webkit-scrollbar-corner {
+    background-color: #535353;
+}
+
+.special-scroll::-webkit-scrollbar-resizer {
+    background-color: #ff6e00;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-break {
+    word-break: normal;
+}
+
+.text-breakall {
+    word-break: break-all;
+}
+
+.text-lowercase {
+    text-transform: lowercase;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.text-capitalize {
+    text-transform: capitalize;
+}
+
+.text-xs {
+    font-size: 12px;
+}
+
+.text-sm {
+    font-size: 14px;
+}
+
+.text-md {
+    font-size: 16px;
+}
+
+.text-lg {
+    font-size: 18px;
+}
+
+.text-xl {
+    font-size: 24px;
+}
+
+.text-xxl {
+    font-size: 32px;
+}
+
+.text-xxxl {
+    font-size: 56px;
+}
+
+/* 额外增加的通用样式开始 */
+.no-mb {
+    margin-bottom: 0px;
+}
+.no-mt {
+    margin-top: 0px;
+}
+.no-ml {
+    margin-left: 0px;
+}
+.no-mr {
+    margin-right: 0px;
+}
+.overflow-hidden {
+    overflow: hidden;
+}
+.full-width {
+    width: 100% !important;
+}
+.vertical-middle {
+    vertical-align: middle;
+}
+.display-block {
+    display: block !important;
+}
+.display-none {
+    display: none !important;
+}
+/* 额外增加的通用样式结束 */
