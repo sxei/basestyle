@@ -1,0 +1,10 @@
+{
+    "name": "basestyle",
+    "version": "1.0.0",
+    "description": "some common base style",
+    "main": "index.scss",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com/sxei/basestyle.git"
+    }
+}
